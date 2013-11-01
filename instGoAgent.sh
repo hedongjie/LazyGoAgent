@@ -1,5 +1,4 @@
 sudo apt-get install gcc -y
-sudo apt-get install git -y
 sudo apt-get install python-all-dev -y
 sudo apt-get install python -y
 sudo apt-get install python-setuptools -y
