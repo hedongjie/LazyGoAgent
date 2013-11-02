@@ -1,5 +1,4 @@
-
-LiGoAgent
+LazyGoAgent
 =========
 
 - **LiGoAgent**是一个用于简化Linux下GoAgent配置的脚本，根据[官方文档](https://code.google.com/p/goagent/wiki/GoAgent_Linux)整理。
@@ -9,19 +8,22 @@ LiGoAgent
 使用说明
 =========
 - 首先你得在[GAE](https://developers.google.com/appengine/?hl=zh-CN&csw=1)上注册，并记住你的APPID。安装Git，Ubuntu上的命令是apt-get install git。
-- 执行下面三条命令
+- 然后在你的工作目录下，执行下面三条命令
 
-    git clone https://github.com/whilgeek/ligoagent
-    cd ligoagent
-    sh getsource.sh
-
+```shell
+    git clone https://github.com/goagent/goagent.git
+```
 - 然后修改 goagent/local/proxy.ini，将第8行的goagent修改为你自己的APPID，再然后
 
+```shell
+    git clone https://github.com/whilgeek/LazyGoAgent.git
+    cd LazyGoAgent
     sh install.sh
-
+```
 - 在执行这个脚本的最后，会要求输入你的APPID，EMAIL以及密码，都输入完之后就OK啦。
+- 其实流程可以不这么复杂的，比如用户不必手动修改proxy.ini，只是我还是shell编程的初学者，对字符串操作不熟悉，各位如果有兴趣，不妨帮我修改下。
 - 建议将goagent/local/proxy.py文件复制或链接到一个常用的目录，方便启动，启动方式是python proxy.xy。
 - 有问题或建议请反馈到：
     - 微博 ：[@樱木洋葱](http://weibo.com/liuyang9duan)
     - 邮箱 ：whilgeek@gmail.com  
-- DON'T PANIC
+- 借用goagent项目最后的那句话，DON'T PANIC
