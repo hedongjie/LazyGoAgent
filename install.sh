@@ -5,7 +5,6 @@ apt-get install python-setuptools -y
 apt-get install curl -y
 apt-get install python-appindicator -y
 apt-get install python-vte -y
-git clone https://code.google.com/p/goagent/
 curl -L -O https://github.com/python-greenlet/greenlet/archive/0.4.0.tar.gz && tar xvzpf 0.4.0.tar.gz && cd greenlet-0.4.0 && sudo python setup.py install
 cd ..
 curl -L -O https://github.com/downloads/SiteSupport/gevent/gevent-1.0rc2.tar.gz && tar xvzpf gevent-1.0rc2.tar.gz && cd gevent-1.0rc2 && sudo python setup.py install
