@@ -13,7 +13,7 @@ LazyGoAgent
 ```shell
     git clone https://github.com/goagent/goagent.git
 ```
-- 然后修改 goagent/local/proxy.ini，将第8行的goagent修改为你自己的APPID，再然后
+- 然后修改 goagent/local/proxy.ini，将第8行的goagent修改为你自己的APPID，再然后回到你的工作目录，执行：
 
 ```shell
     git clone https://github.com/whilgeek/LazyGoAgent.git
