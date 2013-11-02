@@ -1,7 +1,7 @@
 LazyGoAgent
 =========
 
-- **LiGoAgent**是一个用于简化Linux下GoAgent配置的脚本，根据[官方文档](https://code.google.com/p/goagent/wiki/GoAgent_Linux)整理。
+- **LazyGoAgent**是一个用于简化Linux下GoAgent配置的脚本，根据[官方文档](https://code.google.com/p/goagent/wiki/GoAgent_Linux)整理。
 - [这里](https://code.google.com/p/goagent/)是GoAgent的项目地址，如果无法访问的话，请在地址前面添加`https`。
 - 考虑到这个脚本的使用者都是在中国大陆，所以本文就用简体中文写了。
 
