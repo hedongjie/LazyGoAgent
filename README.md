@@ -22,7 +22,7 @@ LazyGoAgent
 ```
 - 在执行这个脚本的最后，会要求输入你的APPID，EMAIL以及密码，都输入完之后就OK啦。
 - 其实流程可以不这么复杂的，比如用户不必手动修改proxy.ini，只是我还是shell编程的初学者，对字符串操作不熟悉，各位如果有兴趣，不妨帮我修改下。
-- 建议将goagent/local/proxy.py文件复制或链接到一个常用的目录，方便启动，启动方式是python proxy.xy。
+- 建议将goagent/local/proxy.py文件复制或链接到一个常用的目录，方便启动，启动方式是python proxy.py。
 - 有问题或建议请反馈到：
     - 微博 ：[@樱木洋葱](http://weibo.com/liuyang9duan)
     - 邮箱 ：whilgeek@gmail.com  
