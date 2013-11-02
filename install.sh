@@ -17,7 +17,6 @@ cd openssl-1.0.1c
 make && make install
 cd ..
 wget http://pypi.python.org/packages/source/p/pyOpenSSL/pyOpenSSL-0.13.tar.gz && tar zxvf pyOpenSSL-0.13.tar.gz && cd pyOpenSSL-0.13 && sudo python setup.py install
-cd ..
 cd ../goagent/server
 python uploader.zip
 cd ../local
