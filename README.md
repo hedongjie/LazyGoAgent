@@ -8,7 +8,7 @@ LazyGoAgent
 使用说明
 =========
 - 首先你得在[GAE](https://developers.google.com/appengine/?hl=zh-CN&csw=1)上注册，并记住你的APPID。安装Git，Ubuntu上的命令是apt-get install git。
-- 然后在你的工作目录下，执行下面三条命令
+- 然后在你的工作目录下，执行下面的命令
 
 ```shell
     git clone https://github.com/goagent/goagent.git
