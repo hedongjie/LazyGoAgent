@@ -19,8 +19,7 @@ make && make install
 cd ..
 wget http://pypi.python.org/packages/source/p/pyOpenSSL/pyOpenSSL-0.13.tar.gz && tar zxvf pyOpenSSL-0.13.tar.gz && cd pyOpenSSL-0.13 && sudo python setup.py install
 cd ..
-git clone https://github.com/goagent/goagent.git
-cd ./goagent/server
+cd ../goagent/server
 python uploader.zip
 cd ../local
 python proxy.py
