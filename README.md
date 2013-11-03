@@ -3,6 +3,7 @@ LazyGoAgent
 
 - **LazyGoAgent**是一个用于简化Linux下GoAgent配置的脚本，根据[官方文档](https://code.google.com/p/goagent/wiki/GoAgent_Linux)整理。
 - [这里](https://code.google.com/p/goagent/)是GoAgent的项目地址，如果无法访问的话，请在地址前面添加`https`。
+- 我不怀疑Linux用户对于shell的熟练程度，但我本人还是喜欢一些简单的配置方式，即不必看着教程逐行敲命令，于是就有了这个脚本。
 - 考虑到这个脚本的使用者都是在中国大陆，所以本文就用简体中文写了。
 
 使用说明
