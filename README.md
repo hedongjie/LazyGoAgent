@@ -28,5 +28,4 @@ LazyGoAgent
 - 其他Linux版本请先将install脚本进行修改，将apt-get换成对应的rpm等。
 - 有问题或建议请反馈到：
     - 微博 ：[@樱木洋葱](http://weibo.com/liuyang9duan)
-    - 邮箱 ：whilgeek@gmail.com  
-- 借用goagent项目最后的那句话，DON'T PANIC
+    - 邮箱 ：whilgeek@gmail.com
